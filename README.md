@@ -273,7 +273,7 @@ Chains that align their format strategy, site selection, and operational model w
 
 ---
 
-**Report Generated:** February 2026
-**Analysis Scope:** 2,284 market locations, 208 bus routes, 3,841 bus stops
-**Charts:** 10 business intelligence visualizations (charts/ directory)
-**Script:** Automated analysis pipeline (scripts/generate_charts.py)
+- **Report Generated:** February 2026
+- **Analysis Scope:** 2,284 market locations, 208 bus routes, 3,841 bus stops
+- **Charts:** 10 business intelligence visualizations (charts/ directory)
+- **Script:** Automated analysis pipeline (scripts/generate_charts.py)
