@@ -1,0 +1,370 @@
+name,address,phone,hours,latitude,longitude
+Araz Azadlıq,"Binəqədi rayon, 8 mkr, İbrahimpaşa Dadaşov küçəsi 91",055-515-85-01,08:00 - 23:00,40.424877,49.842583
+Araz Günəşli-7,"Suraxanı ray., Yeni Günəşli qəs, Baku",924,08:00 - 23:00,40.3713,49.978374
+Araz Günəşli-8,"128 İnqilab İsmayılov, Baku",924,08:00 - 23:00,40.359932,49.97031
+Araz Əhmədli-10,"Bakı ş.,Xətai r-nu, Məhəmməd Hadi ev. 2337-ci məhəllə",924,08:00 - 23:00,40.381763,49.953346
+Araz Xətai-4,Bakı şəh. Xətai ray.Xəqani Rüstəmov ev 21m,924,08:00 - 23:00,40.38356,49.880394
+Araz Qaraçuxur,"Suraxanı rayonu, A.Alicanov küçəsi 17",055-515-85-02,07:30 - 23:00,40.401577,49.978172
+Araz Neftçilər,"Nizami rayonu, Şərifli küçəsi 25",055-515-85-03,24\7,40.413345,49.949493
+Araz Olimpik Supermarket,"Nəsimi rayonu, Mərdanov qardaşları 137",055-515-85-04,24\7,40.401173,49.831348
+Araz Elmlər,"Yasamal rayonu, Şəhriyar küçəsi, 6 nömrəli binanın 1-ci mərtəbəsi",055-515-85-05,07:00 - 23:00,40.377277,49.810387
+Araz Xırdalan-1,"Xırdalan şəhəri, Mehdi Hüseynzadə küçəsi",055-515-85-07,07:00  - 00:00,40.455425,49.740528
+Araz Xəzər-1,"Xətai rayonu, Əhmədli qəsəbəsi, Gəncə prospekti",055-515-85-08,07:00 - 23:00,40.362541,49.961208
+Araz Buzovna-1,"Xəzər rayonu, Buzovna qəsəbəsi, Heydər Eyvazov küçəsi 47",055-515-85-11,07:00 - 02:00,40.516827,50.102386
+Araz Binə-1,"Xəzər rayonu, Binə qəsəbəsi,  Ə.İsazadə küçəsi 5",055-515-85-13,07:00 - 23:00,40.45015,50.087662
+Araz Günəşli-1,"Suraxani rayonu, Yeni Günəşli qəsəbəsi",055-515-85-14,07:30 - 23:00,40.383633,49.982338
+Araz Statistika,"Yasamal rayonu, İnşaatçılar prospekti 31",055-515-85-17,24\7,40.383541,49.823162
+Araz Savalan,"Sabunçu rayonu, Maştağa qəsəbəsi, Zabrat - Maştağa şossesinin sağ tərəfində 27 saylı sahə",055-515-85-16,07:00 - 02:00,40.507488,49.975842
+Araz Sumqayıt-1,"Sumqayıt şəhəri, 32-ci məhəllə",055-515-85-18,08:00 - 23:00,40.590523,49.674782
+Araz Masazır-1,"Masazır qəsəbəsi, Əliağa Vahid küçəsi",055-515-85-19,07:00 - 00:00,40.458031,49.756222
+Araz Nərimanov-1,"Nərimanov rayonu, 1936-cı məhəllə, Ağa Nemətulla",055-515-85-20,24\7,40.396942,49.878723
+Araz-20 Yanvar-1,"Nəsimi rayonu, Tbilisi prospekti, Alatava 2",055-515-85-22,24\7,40.398094,49.814079
+Spar C.Hacıbəyli,"Nərimanov rayonu, Bakıxanov k.  məhəllə 758-59",055-515-85-23,08:00 - 00:00,40.390354,49.846695
+Araz Masazır-2,"Abşeron rayonu, Masazır qəsəbəsi, , Əliağa Vahid küçəsi",055-515-85-24,24\7,40.478794,49.753513
+Araz Qaraçuxur-2,"Suraxanı rayonu, Qaraçuxur qəsəbəsi, Yusub Ayvazov küçəsi 2C",055-515-85-25,07:00 - 23:00,40.392796,49.981812
+Araz Bakıxanov-2,"Sabunçu rayonu, Bakıxanov qəsəbəsi, Nizami İsmayılov küçəsi, 59 nömrəli  bina",055-515-85-27,07:00 - 23:00,40.423592,49.969093
+Araz Nərimanov-2,"Nərimanov rayonu, Ağa Nemətulla küçəsi,  ev 70a",055-515-85-29,07:00 - 23:00,40.408989,49.86784
+Araz Şüvəlan,"Xəzər rayonu,  Şüvələn qəsəbəsi,  A.İldırım küçəsi 11 ",055-515-85-30,07:00 - 02:00,40.487041,50.169903
+Araz Şamaxı-1,Şamaxı Şəhəri S.Ə.Şirvani 84 A,924,08:00-23:00,40.625885,48.647251
+Araz Qarayev-2,Qara Qarayev prokspekti 1/10,055-515-85-32,24\7,40.419823,49.925358
+Araz Binə-7,"Xəzər rayonu, Binə ŞTQ, Hövsan Südçülük Sovxoz, ev 56.",924,08:00-23:00,40.42675,50.111225
+Araz Mehdiabad-1,"Abşeron rayonu, Mehdiabad qəsəbəsi, Fatmai şossesi",055-515-85-33,07:00 - 23:00,40.495823,49.855896
+Araz Hövsan-5,"Bakı şəh, Suraxanı ray, Hövsan qəs, İ.Əhlimanov küç . 114",924,08:00-23:00,40.360092,50.076019
+Araz Binəqədi-1,"Binəqədi rayonu, Binəqədi ŞTQ 2-ci mədən",055-515-85-36,07:00 - 23:00,40.472164,49.834324
+Araz Yasamal 3,"Yasamal rayonu, H.Zərdabi prospekti, 593-cü məhəllə ",055-515-85-37,08:00 - 23:00,40.385921,49.808319
+Araz Zığ-1,"Bakı Şəhəri, Xətai Rayonu, Naximov küçəsi",924,08:00-23:00,40.342697,49.968891
+Araz Hövsan Ekspress,"Suraxanı rayonu, Hövsan qəsəbəsi, İ.Əhlimanov küçəsi 225",055-515-85-40,07:30 - 02:00,40.360741,50.080055
+Araz Binə-6,Bakı Şəhəri Xəzər Rayonu Binə ŞTQ ev.29-cu Binə küçəsi m 79,924,08:00-23:00,40.465946,50.081497
+Araz Məhəmmədi,"Abşeron rayonu, Məhəmmədi kəndi, GöyQurşağı-Məmmədli yaşayış kompleksi, bina1",055-515-85-41,24\7,40.511566,49.941521
+Araz Zabitlər Parkı,Bakı Şəhəri Nəsimi Rayonu Mərdanov Qardaşları ev 156 A,924,08:00-23:00,40.386452,49.835487
+Araz Şuşa-1 (Suraxanı),"Suraxanı rayonu, Bülbülə qəsəbəsi, Samir Əliyev küçəsi",055-515-85-43,07:00 - 23:00,40.449623,50.00983
+Araz Qəbələ-1,Qəbələ Rayonu Zarağan,924,08:00-23:00,40.931667,47.804417
+Araz Atatürk,"Nərimanov rayonu, A,Salamzadə, ev35V, 1104-cü məhəllə",055-515-85-44,07:00 - 23:00,40.409195,49.84499
+Araz Naxçıvan-1,"Naxçıvan şəhəri, Heydər Əliyev prospekti 19.",924,08:00-23:00,39.213707,45.407768
+Araz Qala,"Xəzər rayonu, Qala qəsəbəsi, 3 saylı Zeytun sovxoz küçəsi, ev 120A",055-515-85-47,07:30 - 23:00,40.448582,50.162071
+Araz 20 Yanvar-3,"Bakı şəhəri, Nəsimi rayonu, Cavad xan küçəsi, 7saylı bina",924,08:00-23:00,40.419868,49.818478
+Araz Binə-2,"Xəzər rayonu,  Donuz kökəltmə sovxozu",055-515-85-48,07:00 - 23:00,40.446251,50.089901
+Araz Binə-5,"Bakı şəhəri, Xəzər rayonu, Binə qəsəbəsi, ev 1390 G.",924,08:00 - 23:00,40.483742,50.074295
+Araz Masazır-10,"Abşeron rayonu, Masazır qəsəbəsi Ş. Qurbanov küçəsi 37 A",924,08:00-23:00,40.480236,49.757275
+Spar 3-cü mkr,"Nəsimi rayonu, Cavadxan küçəsi 3 MKN 3005-ci məhəllə",055-515-85-39,07:00  - 00:00,40.407032,49.813011
+Araz Binə-9,"Xəzər rayonu, Binə qəsəbəsi, 176-cı Binə küçəsi",924,08:00-23:00,40.415096,50.120758
+Araz NZS,"Xətai rayonu, Rəşid Bağırov küçəsi 25",055-515-85-49,07:30 - 23:00,40.386482,49.906094
+Araz G. Mehmandarov,"Xətai rayonu, G. Mehmandarov 1.",924,08:00-23:00,40.371807,49.967678
+Araz Əhmədli-2,"Xətai rayonu,  Məhəmməd Hadi küçəsi 41",055-515-85-50,24\7,40.38504,49.954525
+Araz Saray-1,"Abşeron rayonu, Saray qəsəbəsi",055-515-85-52,24\7,40.52412,49.687569
+Araz Xətai-1,"Xətai rayonu, Babək prospekti, 10 D",055-515-85-53,08:00 - 23:00,40.388191,49.871136
+Araz Xırdalan-9,"Abşeron rayonu, Xırdalan şəhəri, Səttar Bəhlulzadə küçəsi 178",924,08:00-23:00,40.457157,49.717297
+Araz Əhmədli-3,"Xətai rayonu, Məhəmməd Hadi küçəsi 51M",055-515-85-54,24\7,40.380466,49.954262
+Araz Xırdalan-10,"Abşeron rayonu, Xırdalan şəhəri, H.Əliyev prospekti 11, ev 1",924,08:00-23:00,40.447041,49.749111
+Araz Çobanzadə,"Nizami rayonu, Bəkir Çobanzadə küçəsi 216",055-515-85-55,07:00 - 23:00,40.402859,49.936935
+Araz Xırdalan-11,"Abşeron rayonu, Xırdalan şəhəri, Mehdi Hüseynzadə küçəsi, ev 313",924,08:00-23:00,40.453003,49.737488
+Araz 9-cu mkr-1,"Binəqədi rayonu, 9 mkr, H.Seyidzadə küçəsi 38",055-515-85-56,07:00 - 23:00,40.421204,49.809101
+Araz Xırdalan-12,"Abşeron rayonu, Xırdalan şəhəri, Həzi Aslanov küçəsi",924,08:00-23:00,40.456203,49.744072
+Spar Axundov-1,"Səbail rayonu, B.Sərdarov küçəsi 15",055-515-85-57,24\7,40.367928,49.827564
+Araz Biləcəri-9,"Binəqədi rayonu, Biləcəri qəsəbəsi, DSK yolu, döngə 4",924,08:00-23:00,40.448639,49.802551
+Araz Qarayev-3,"Nizami rayonu, Tofiq Abbasov küçəsi 38, bina 7",055-515-85-59,07:00 - 23:00,40.41967,49.931591
+Araz Naxçıvan-2,"Naxçıvan MR, Naxçıvan şəhəri N.Tusi küçəsi 11",924,24\7,39.19672,45.420361
+Araz 8-ci km-1,"Nizami rayonu, C.Naxçıvanski küçəsi 66 A, giriş 1 və 2",055-515-85-62,07:30 - 23:00,40.405621,49.955521
+Araz Culfa-1,"Naxçıvan MR, Culfa rayonu, Bənəniyar kəndi",924,24\7,39.153946,45.660088
+Araz 8-ci km-2,"Nizami rayonu, E.Süleymanov 2566 blok-B, mərtəbə 1",055-515-85-63,07:30 - 02:00,40.409245,49.952496
+Araz Xankəndi-1,Xankəndi şəhəri,924,08:23:00,39.826801,46.765903
+Araz Hövsan-2,"Suraxanı rayonu, Hövsan Qəsəbəsi, Elman Qasıməv küçəsi 227 A",055-515-85-64,07:30 - 23:00,40.364113,50.073154
+Araz Siyəzən-2,"Siyəzən şəhəri, Heydər Əliyev pr",924,08:00-23:00,41.073528,49.113808
+Araz Cəfər Xəndan,"Binəqədi rayonu, M.Ə.Rəsulzadə qəsəbəsi, Cəfər Xəndan küçəsi",055-515-85-69,08:00 - 02:00,40.415562,49.828979
+Araz Kəlbəcər-1,Kəlbəcər rayonu,924,08:00-23:00,40.109859,46.041611
+Araz Badamdar-1,"Səbail rayonu, Badamdar qəsəbəsi, 1 yaşayış massivi",055-515-85-66,08:00 - 02:00,40.350906,49.810612
+Araz Xırdalan-13,"Xırdalan şəhəri, N.Zeynalova küçəsi",924,24\7,40.456528,49.743999
+Araz Şəfayət Mehdiyev,"Yasamal rayonu, Ə.Ələkbərov küçəsi 1054 - cü məhəllə",055-515-85-68,08:00 - 23:00,40.393955,49.815659
+Araz 4-cü mkr-1,"Bakı şəhəri, Nəsimi rayonu, H.Seyidzadə küçəsi 4 mkr",924,08:00-23:00,40.416084,49.813141
+Araz Şərifzadə,"Bakı şəhəri, Şərfizadə küçəsi ünvanı",055-515-85-67,24\7,40.38195,49.804306
+Araz 5-ci mkr-1,"Bakı şəhər, 5-ci mkr, Asif Məhərrəmov küçəsi",924,08:00-23:00,40.408207,49.810246
+Araz Zirə-1,"Bakı şəhəri, Xəzər rayonu, Zirə qəsəbəsi.",0912,08:00-23:00,40.422523,50.242409
+Araz Bakıxanov-7,"Bakıxanov rayonu, Nazim İsmayılov küçəsi",924,08:00-23:00,40.418884,49.972206
+Araz Müşfiqabad-1,Bakı şəh. Müşfiqabad qəs. YYM1  22-ci Müşfik küç ev 81,0924,08:00-23:00,40.47226,49.613789
+Araz Bərdə-1,Bərdə rayonu,924,08:00-23:00,40.399303,47.12291
+Araz Qarayev-4,"Nizami rayonu, Qara Qarayev prospekti 25A ",055-515-85-72,07:00 - 23:00,40.418156,49.933064
+Araz Biləcəri-10,Biləcəri qəsəbəsi,924,08:00-23:00,40.451138,49.83025
+Araz Gəncə-4,"Gəncə şəhəri, 127B Atatürk prospekti",924,08:00-23:00,40.697212,46.361439
+Araz Xırdalan-2,"Abşeron rayonu, Xırdalan şəhəri, H.Əliyev prospekti 7",055-515-85-70,24\7,40.441345,49.771458
+Araz Goran-1,Goran qəsəbəsi,924,08:00-23:00,40.645805,46.852001
+Araz 6-cı mkr,"Binəqədi rayonu, 6-cı mkr, İ.Haşımov küçəsi 1 A ",055-515-85-74,07:00 - 23:00,40.426498,49.827896
+Araz Xətai-7,Sabit Orucov küçəsi,924,08:00-23:00,40.380768,49.872719
+Araz Ə.Hüseynzadə,"Nəsimi rayonu, Ə.Hüseynzadə küçəsi 84",055-515-85-78,07:00 - 23:00,40.381153,49.83456
+Araz Olimpik,"Nəsimi rayonu, Mərdanov qardaşları 137",924,08:00-23:00,40.401173,49.831348
+Araz Xəzər-2,"Xətai rayonu, Əhmədli qəsəbəsi, Gəncə prospekti 135",055-515-85-77,24\7,40.363373,49.960487
+Araz Mehdiabad-5,Mehdiabad rayonu,924,08:00-23:00,40.48668,49.838909
+Araz Buzovna-2,"Buzovna qəsəbəsi, Buzovna-Maştağa yolunun sağ tərəfi, Zagulba yolu",055-515-85-83,07:00 - 00:00,40.519325,50.095387
+Araz Mərdəkan-3,Sergey Yesenin küçəsi,924,08:00-23:00,40.488583,50.152863
+Araz Mirəli Qaşqay,"Nəsimi rayonu, Kavoreçkin küçəsi ilə Mirəli Qaşqay küçəsinin kəsişməsi",055-515-85-88,07:00 - 02:00,40.388119,49.845379
+Məhəmmədi-4,Məhəmmədi rayonu,924,08:00-23:00,40.507187,49.911816
+Spar Tarqovu,"Nəsimi rayonu, Səməd Vurğun küçəsi 19",055-515-85-94,24\7,40.374855,49.841648
+Araz Neapol-3,Neapol küçəsi,924,08:00-23:00,40.382526,49.963722
+Araz Elmlər-3,"Yasamal rayonu, Firudin Ağayev 9 ",055-515-85-95,08:00 - 23:00,40.375843,49.811668
+Araz Polad Həşimov,Polad Həşimov küçəsi,924,08:00-23:00,40.342556,49.968834
+Araz Yasamal-1,"Yasamal rayonu, M.Seyidov küçəsi 41E, 3148-ci məhəllə",055-515-85-10,08:00 - 02:00,40.382133,49.807125
+Araz Səməd Vurğun-1,"Nəsimi rayonu, Səməd Vurğun küçəsi",924,08:00-23:00,40.386639,49.837029
+Araz Zaqatala,"Zaqatala rayonu, Faiq Əmirov küçəsi 25 (Zaqatala mall)",055-498-83-83,07:00 - 23:00,41.629333,46.634918
+Araz Şamaxinka-1,"Bakı şəhəri, Moskva küçəsi",924,08:00-23:00,40.4072,49.806225
+Araz İmişli,"İmişli rayonu, İmişli şəhəri, Baki küçəsi",055-515-85-99,07:00 - 23:00,39.867607,48.060246
+Araz Tarqovu-1,Yusif Mammadaliyev küçəsi,924,08:00-23:00,40.368942,49.83839
+Araz Sumqayıt-3,"Sumqayıt şəhəri, 9-cu mikrorayon, Üzeyir Hacıbəyov küçəsi 23",055-515-85-79,24\7,40.57011,49.689014
+Araz Nərimanov-12,"Bakı şəhəri, Nərimanov rayonu Ə.Orucəliyev küçəsi",924,08:00-23:00,40.40097,49.86964
+Araz Xətai-2,"Xətai rayonu, Həsən Salmani küçəsi 17",055-400-85-18,07:00 - 23:00,40.383804,49.861237
+Araz Mingəçevir-3,Mingəçevir şəhəri. A.Puşkin küçəsi 24,924,08:00-23:00,40.76897,47.058693
+Araz Xalqlar,"Nizami rayonu, Q.Qarayev prospekti 93 L",055-400-85-19,07:00 - 23:00,40.402458,49.950615
+Araz Cavidan-1,"Bakı şəhəri, Nəsimi rayonu, Azadlıq pr",924,08:00-23:00,40.403473,49.836613
+Araz Masazır-3,"Abşeron rayonu, Masazır qəsəbəsi, Bakı-Sumqayıt yolu",055-515-85-09,07:00 - 00:00,40.458031,49.756222
+Araz Şərur-1,"Şərur şəhəri, M.Müşfiq küçəsi 2A",924,08:00-23:00,39.554306,44.980389
+Spar 28 May Ekspress,"Nəsimi rayonu, Səməd Vurğun küçəsi 50",055-400-85-21,08:00 - 23:00,40.377731,49.85207
+Araz Sumqayıt-13,"Abşeron rayonu, Stansiya Sumqayıt, 1001 ailəlik yaşayış kompleksi",924,08:00-23:00,40.556442,49.584805
+Araz Nərimanov-3,"Nərimanov rayonu, N.Hacıyev və F.Yusifov küçəsinin kəsişməsi, 1950-ci məhəllə",055-400-85-20,07:00 - 23:00,40.402119,49.874187
+Araz Ramana-3,"Bakı şəhəri, Yeni Suraxanı qəsəbəsi, Mərkəzi küçəsi. 4P saylı sahə",924,08:00-23:00,40.44511,50.010807
+Araz Badamdar-4,"Bakı şəhəri, Səbail rayonu. Badamdar qəsəbəsi",924,07:00-23:00,40.344528,49.810417
+Araz Günəşli-2,"Suraxanı rayonu, Yeni Günəşli D yaşayış sahəsi, 26-cı bina",055-400-85-24,07:30 - 23:00,40.368992,49.975765
+Araz Güzdək-1,"Abşeron rayonu, Güzdək qəsəbəsi, Aşağı Güzdək yolu.",0552509204,07:00 - 00:00,40.461224,49.661766
+Araz Qum adası,"Suraxanı rayonu, Zığ-Hövsan şossesi, Qum adası yolu",055-400-85-25,07:30 - 23:00,40.348434,49.998703
+Araz Şağan-3,"Xəzər rayonu, Şağan qəsəbəsi, 114-cü Mərdəkan küçəsi",0552509454,24\7,40.510738,50.14196
+Araz Buzovna-3 Minimarket,"Xəzər rayonu, Zaqulba qəsəbəsi, R.İmanov küçəsi",055-400-85-28,07:30 - 23:00,40.523682,50.099937
+Araz Badamdar-5,"Səbail rayonu, Badamdar qəsəbəsi, Ə.Nəzərov küçəsi 33A",924,07:00-23:00,40.340721,49.806973
+Araz 7-ci mkr,"Binəqədi rayonu, 7 mkr, 3123-cü məhəllə",055-400-85-26,07:00 - 23:00,40.432804,49.850559
+Araz Azadlıq-5,"Bakı şəhəri, Binəqədi rayonu, İ.Dadaşov küçəsi 70A",924,07:00-23:00,49.842918,40.41964
+Araz Yeni Yasamal-6,"Bakı şəhəri, Yasamal rayonu, Xarici dairəvi yolu ev 38",924,07:00-23:00,40.392529,49.787807
+Araz 6-cı mkr 2,"Binəqədi rayonu, 6-cı mkr, Svetlana Məmmədova küçəsi 209 F",055-400-85-38,07:00 - 23:00,40.425941,49.830589
+Araz Saray-5,"Abşeron rayonu, Saray qəsəbəsi, M.Hüseyn küçəsi",924,07:00-23:00,40.539555,49.718723
+Araz Sumqayıt-5,"Sumqayıt şəhəri, 9-cu mkr Ü.Hacıbəyov və Koroğlu küçələrinin kəsişməsi",055-400-85-32,24\7,40.566978,49.685425
+Araz Xocavənd-1,Xocavənd şəhəri,924,07:00-23:00,39.792583,47.114471
+Araz Daşkəsən,"Daşkəsən şəhəri, Nizami küç. 14",055-400-85-34,07:00 - 23:00,40.523411,46.08263
+Araz Tovuz-1,"Tovuz şəhəri, M.H.Şəhriyar küçəsi 19",924,07:00-23:00,40.992027,45.614361
+Araz Gəncə-2,"Gəncə şəhəri, Yeni Gəncə qəsəbəsi, Ə.Mehmandarov küçəsi",055-400-85-36,24\7,40.675087,46.334614
+Araz Xırdalan-14,"Xırdalan şəhəri, Q.Aslanov 80",924,07:00-23:00,40.452301,49.752071
+Araz Saatlı,"Saatlı şəhəri, H.Əliyev pr. 240",055-400-85-35,07:00 - 00:00,39.927883,48.35894
+Araz Sumqayıt-14,"Sumqayıt şəhəri, Dənizkənarı Park",924,07:00-23:00,40.583889,49.690277
+Araz Məhəmmədi-2,"Abşeron rayonu, Zabrat dairəsi, Məhəmmədi kəndi istiqaməti",055-400-85-39,07:30 - 23:00,40.497093,49.949776
+Araz Zaqatala-3,"Zaqatala şəhəri, Heydər Əliyev pr. 67A",924,07:00-23:00,41.632751,46.647667
+Araz 7-ci mkr-2,"Binəqədi rayonu, F.Məlikov küçəsi 18A",055-400-85-40,07:00 - 23:00,40.428905,49.852238
+Araz Ağdam-1,"Ağdam rayonu, Quzanlı qəsəbəsi",924,07:00-23:00,40.163055,47.155834
+Araz N.Yusifbəyli,"Nəsimi rayonu, Nəsib bəy Yusifbəyli küçəsi 94",055-400-85-42,07:00 - 23:00,40.398041,49.839874
+Araz Xətai - 8,"Bakı şəhəri, Xətai rayonu, A.Cəlilov küçəsi",924,07:00-23:00,40.378418,49.874779
+Araz Sahil,"Qaradağ rayonu, Sahil qəsəbəsi, Məhərrəm Seyidov küçəsi 15",055-400-85-46,08:00 - 23:00,40.224918,49.572365
+Araz Saray-4,"Abşeron rayonu, Saray qəsəbəsi. M.Ə.Rəsulzadə küçəsi",99455 250 98 01,07:00-23:00,40.530277,49.714474
+Araz Bakıxanov-4,"Sabunçu rayonu, Bakıxanov qəsəbəsi, N.İsmayılov küçəsi 15",055-400-85-48,07:00 - 23:00,40.428715,49.962269
+Araz Biləcəri,"Binəqədi rayonu, Biləcəri qəsəbəsi, M.Hüseyn küçəsi 17",055-400-85-50,24\7,40.436199,49.803444
+Araz Zaqulba,"Xəzər rayonu, Zaqulba qəsəbəsi, R.İmanov küçəsi",055 400 85 28,07:30 - 23:00,40.523680,50.099936
+Araz Neftçilər-2 Ekspress,"Nizami rayonu, R.Rüstəmov küçəsi 12c",055-400-85-49,07:00 - 23:00,40.406391,49.93837
+Araz Günəşli-4,"Suraxanı rayonu, Samir Cəfərov, ev2, V massivi",055 864 95 30,07:30 - 23:00,40.386672,49.982624
+Araz Həzi Aslanov-1,"Xətai rayonu, M.Hadi küçəsi 73A",055-400-85-53,08:00-23:00,40.372826,49.954556
+Araz İnqilab-2,"Nərimanov rayonu, Möhsün Sənani küçəsi, 34 (ASAN xidmətin yaxınlğı);",055 900 67 24,07:00 - 23:00,40.398655,49.837013
+Araz Mehdiabad-2,"Mehdiabad qəsəbəsi, 28 May küçəsi (Mehdiabad ticarət mərkəzinin 1-ci mərtəbəsi)",055-400-85-52,07:00 - 00:00,40.487946,49.854427
+Araz Ələt-1,"Bakı şəhəri, Qaradağ rayonu, Ələt qəsəbəsi, K. Məmmədov küçəsi, keçid 1587.",924,08:00 - 23:00,39.954826,49.409958
+Araz Xırdalan-3,"Xırdalan şəh., AAAF Park yaşayış kompleksi",055-400-85-58,07:00 - 23:00,40.457169,49.722996
+Araz Beyləqan-1,"Beyləqan rayonu, Qarallar kəndi.",924,08:00-23:00,39.766944,47.876571
+Araz Pirallahı-3,"Pirallahı rayonu, Əzizbəyov küçəsi, ev 26.",924,08:00-23:00,40.455872,50.337098
+Araz 7-ci mkr-3,"Binəqədi ray., 7-ci mkr, S.S.Axundov küç. 3C",055-400-85-60,07:00 - 23:00,40.42688,49.84948
+Araz Həzi Aslanov-5,Bakı şəh. Xətai ray. M.Hadi küç kəsişmı 2944A məhəll,924,08:00-23:00,40.371348,49.953333
+Araz Sabunçu,"Sabunçu qəs., Ə.Məmmədəliyev küç. 18A (Sabunçu xəstəxanasının yaxınlığı)",055-400-85-57,07:00 - 23:00,40.444942,49.943359
+Araz Əhmədli-8,"Xətai rayonu ,Əhmədli qəs , LütfiZadə küç, 2347 48-ci məhəllə, Baku",924,08:00-23:00,40.386250791158254,49.96586769981091
+Araz Mingəçevir,"Mingəçevir şəhəri, Heydər Əliyev prospekti",055-400-85-62,24\7,40.771084,47.041107
+Araz 8-ci km-3,"Bakı şəhəri, 8-ci km",924,08:00-23:00,40.402481,49.950594
+Araz Ceyranbatan,"Abşeron rayonu, Ceyranbatan qəsəbəsi, Bakı-Sumqayıt şossesi",055-400-85-63,24\7,40.543705,49.663124
+Araz 9-cu mkr-3,"Binəqədi r-nu,9mkr, ev 11 A Məmmədov küçəsi, Baku",924,08:00-23:00,40.419409,49.808347
+Araz Zabrat,"Zabrat qəsəbəsi, Neftçilər küçəsi",055-400-85-56,07:00 - 23:00,40.476822,49.93829
+Araz Məhəmmədi-4,Məhəmmədi rayonu,924,08:00-23:00,40.507188,49.911814
+Araz Günəşli-3,"Suraxanı rayonu, Qaraçuxur qəsəbəsi, İlqar Musayev küçəsi, Qartal heykəlinin yaxınlığı",055-400-85-61,24\7,40.385021,49.971889
+Araz Bülbülə-1,Bülbülə qəsəbəsi,924,08:00-23:00,40.4363611,49.9944444
+Araz Suraxanı,"Suraxanı rayonu, Yeni Suraxanı ŞTQ 14 iyul ev. 24",055 400 85 76,07:00 - 23:00,40.432659,50.033588
+Araz Müşfiqabad-2,"Bakı şəhəri, Binəqədi rayonu 28 may, İzlivnoy küçəsi",924,07:00-23:00,40.4655833,49.6284444
+Araz Nizami,"Yasamal rayonu, 422-ci məhəllə, Mirzə İbrahimov küçəsi 53, 1-ci mərtəbə",055 252 26 07,08:00 - 23:00,40.377922,49.83287
+Araz Saray-3,"Abşeron rayonu, Saray qəsəbəsi, M.Əsədov küç 1 ev 3",924,07:00-23:00,40.5501667,49.7125278
+Araz Kürdəxanı,"Kürdəxanı qəsəbəsi, Əjdər Məlikov küçəsi",055 215 12 89,07:30 - 02:00,40.547504,49.911598
+Araz Əhmədli-11,"Bakı şəhəri, Xətai rayonu, Xocalı prospekti 13/15",924,07:00-23:00,40.3847778,49.9648056
+Araz Azadlıq-3,"Nərimanov rayonu, məhəllə 944. S. Rəhman küçəsi",055-400-85-12,24\7,40.401096,49.837719
+Araz 9-cu mkr-4,"Bakı şəhəri, Binəqədi rayonu, Mir Cəlal küç 139A",924,07:00 - 23:00,40.416972,49.8061667
+Araz İnqilab-1,Nərimanov rayonu. Akademik Mirəli Qaşqay küçəsi. ev 94. 1-ci mərtəbə,055-400-85-13,08:00 - 23:00,40.40155,49.839767
+Araz Xırdalan-16,"Abşeron rayonu, Xırdalan şəhəri, 26-cı məhəllə. M.Hüseynzadə küçəsi",924,07:00-23:00,40.461889,49.747222
+Araz Elmlər,Yasamal rayonu. Ə. Ələkbərov küç. 510,055 400 85 02,24\7,40.371037,49.818111
+Araz Saray-7,"Abşeron rayonu, Saray qəsəbəsi",924,07:00-23:00,40.512173,49.724495
+Araz Space,"Yasamal rayonu, Hüseyn Cavid prospekti 17A",055-400-85-09,08:00 - 00:00,40.366989,49.815624
+Araz Cəbrayıl-1,Cəbrayıl rayonu,924,07:00-23:00,39.402504,47.090481
+Araz Yasamal Superstore,Yasamal rayonu. Ə. Haqverdiyev küçəsi. məhəllə 574,055-400-85-10,24\7,40.380329,49.811092
+Araz Bərdə-3,"Bərdə rayonu, Ü.Hacıbəyov küçəsi",924,07:00-23:00,40.374626,47.119759
+Araz Statistika-2,Yasamal rayonu. M. H. Naxçıvani 15,055-400-85-04,24\7,40.38372,49.826378
+Araz İmişli-2,"İmişli rayonu, M.M.Rəsulzadə küçəsi, ev 3",924,07:00-23:00,39.868668,48.061634
+Araz Planet,Nizami rayonu. M. Abbasov 50 B,055-400-85-15,07:00 - 23:00,40.412628,49.933979
+Araz Balakən -1,"Balakən şəhəri, H.Əliyev pr",924,07:00-23:00,41.706028,46.424252
+Araz 7-ci mkr-4,"Binəqədi rayonu, 7-ci mkr, Xarici Dairəvi küçəsi bina 22 blok 1",055-400-85-01,07:00 - 23:00,40.430744,49.850845
+Araz Hövsan-6,"Bakı şəhəri, Surxanı rayonu, Hövsan qəsəbəsi, Xudafərin küçəsi 26B",924,07:00-23:00,40.386295,50.069744
+Araz Rəsulzadə,"Binəqədi rayonu, M.Ə.Rəsulzadə qəsəbəsi, Azadlıq prospekti 157",055-400-85-11,07:00 - 23:00,40.436234,49.84486
+Araz Bayıl-4,"Səbayil rayonu, Bibiheybet qəsəbəsi, Salyan şosesi 3-cü km",924,07:00-23:00,40.319473,49.827171
+Araz Binəqədi Minimarket,"Binəqədi rayonu, Gülməmməd Ramazanov küçəsi, (1 sayli qarışıq mallar mağazasi) 2-ci mədən, korpus 52",055 400 85 05,07:00 - 23:00,40.466389,49.829311
+Araz Xırdalan-15,"Abşeron rayonu, Xırdalan şəhəri, H. Əliyev pr 518",924,07:00-23:00,40.443745,49.756519
+Araz 9-cu mkr-2,"Binəqədi rayonu, 9-cu mikrorayon, Mir Cəlal küçəsi 59 K",055-400-85-14,07:00  - 00:00,40.418823,49.811012
+Araz Şıxlinski -2,"Bakı şəhəri, Xətai rayonu, G.Şıxlınski küçəsi, 2942D ev 51C",924,07:00-23:00,40.362774,49.965450
+Araz Neapol,"Xətai rayonu, General Şıxlınski küçəsi 55",055 400 85 03,24\7,40.383411,49.96664
+Araz Tusi-3,"Bakı şəhəri, Xətai rayonu, N.Tusi küçəsi, 2942",924,07:00-23:00,40.366737,49.962383
+Araz Xəzər-3,"Xətai rayonu, Gəncə prospekti,  məhəllə 29/42",055-400-85-06,24\7,40.367821,49.959778
+Araz Yeni Yasamal-7,"Bakı şəhəri, Yasamal rayonu. Alatava - 7 küçəsi, ev 72",924,07:00-23:00,40.386726,49.789989
+Araz Bayıl,"Səbail rayonu, Salyan şössesi, 20-ci ünvan",055-400-85-08,24\7,40.330032,49.818501
+Araz Qaradağ-2,"Bakı şəhəri, Qaradağ rayonu. Sahil qəsəbəsi. Salyan şosesi, 34-cü məhəllə.",924,07:00-23:00,40.226093,49.569191
+Araz Novxanı,"Abşeron rayonu, Novxanı kəndi",055-400-85-16,07:00 - 00:00,40.537113,49.783222
+Araz Xəzər-5,"Bakı şəhəri, Xətai rayonu. Gəncə pr 38.",924,07:00-23:00,40.366962,49.959930
+Araz Quba,"Quba rayonu, Heydər Əliyev pr.",055-400-85-07,24\7,41.362682,48.522152
+Araz Sahil-2,"Bakı şəhəri, Qaradağ rayonu, Sahil qəsəbəsi. Ş.Əsgərov küçəsi ev.4",924,07:00-23:00,40.226662,49.580124
+Yeni Günəşli-4 Minimarket," Suraxanı rayonu, Samir Cəfərov, ev2, V massivi",055 864 95 30,07:30 - 23:00,40.386673,49.982624
+Araz Biləcəri-11,"Bakı şəhəri, Binəqədi rayonu. Biləcəri qəsəbəsi.",924,07:00-23:00,40.443085,49.809643
+Yeni Yasamal-1 Minimarket,"Yasamal rayonu, Yeni Yasamal 1, ev 1H",055 202 65 24,08:00 - 23:00,40.399357,49.796963
+Araz Nərimanov-13,"Bakı şəhəri, Nərimanov rayonu, Fətəli Xan Xoyski ev 118A",924,07:00-23:00,40.402447,49.861652
+Araz Badamdar-2,"Səbail rayonu, Badamdar qəsəbəsi, Tofiq Məmmədov ",055 202 65 46,07:00 - 23:00,40.338688,49.807571
+Araz 8 mkr-04,"Bakı şəhəri, Binəqədi rayonu, Naxçıvani küçəsi 5A",924,07:00-23:00,40.413773,49.839310
+Araz 20 Yanvar-2,"Nəsimi rayonu, Məmmədcəfər Cəfərov küçəsi, 3006 məhəllə",055 201 83 73,07:00 - 23:00,40.406013,49.811314
+Araz Şərifzadə - 5,"Bakı şəhəri, Yasamal rayonu, Şərifzadə küçəsi 33",924,07:00-23:00,40.373787,49.805511
+Araz Yeni Yasamal-1,"Yasamal rayonu, Mirəli Seyidov küçəsi ",055 400 85 87,07:00 - 23:00,40.378197,49.807732
+Araz Sumqayıt-16,"Sumqayıt şəhəri, 6-cı mikrorayon.",924,07:00-23:00,40.580120,49.687832
+Araz Saray-2,"Abşeron rayonu, Saray qəsəbəsi, Məhəmməd Əsədov küçəsi",055 400 85 79,24\7,40.547703,49.712955
+Araz Saray-6,"Abşeron rayonu, Saray qəsəbəsi",924,07:00-23:00,40.547359,49.715008
+Araz Sumqayıt-6,"Sumqayıt şəhəri, Koroğlu küçəsi, 41-ci məhəllə, Koroğlu prospekti",055 226 51 10,24\7,40.576138,49.669239
+Araz Sumqayıt-15,"Abşeron rayonu, Pirəkeşgül. Azərbaycan küçəsi 236",924,07:00-23:00,40.555504,49.583477
+Araz Xırdalan-4,"Xırdalan şəhəri, Nizami Gəncəvi küçəsi",055 414 24 74,07:00 - 23:00,40.459122,49.744308
+Araz Mehdiabad-7,Abşeron ray.Mehdiabad qəsəbəsi,055 457 49 29 ,07:00-23:00,40.486191,49.838112
+Araz Nərimanov-4,"Nərimanov rayonu, Ə.Əliyev küçəsi",055 226 51 12,24\7,40.403919,49.87785
+Araz Bərdə-4,"Bərdə rayonu, Birinci Qaradəmirçi kəndi",924,07:00-23:00,40.350727,47.161537
+Araz N.Tusi-1,"Xətai rayonu, N.Tusi küçəsi",055 300 83 77,07:00 - 23:00,40.376137,49.960976
+Araz Masazır- 11,"Abşeron rayonu, Masazır qəsəbəsi, Masazır şossesi",924,07:00-23:00,40.481262,49.756310
+Araz Qarabağ,"Nərimanov rayonu, Qarabağ küçəsi",055 256 78 20,24\7,40.389351,49.857647
+Araz Masazır-12,"Abşeron rayonu, Masazır Kəndi, Qaçaq Nəbi",924,07:00-23:00,40.459938,49.762440
+Araz 8-ci km-4,"Nizami rayonu, Cəmşid Naxçivanı küçəsi 90 ",055 500 74 67,07:00 - 23:00,40.408443,49.958
+Araz Binəqədi-6,"Bakı şəhəri, Binəqədi rayonu, Binəqədi qəsəbəsi. G.Ramazanov küçəsi 129A",924,07:00-23:00,40.466602,49.827625
+Araz Binə-3,"Xəzər rayonu, Binə qəsəbəsi, Ə.İsazadə küçəsi",055 525 30 15,07:00 - 23:00,40.446709,50.089024
+Araz Elmlər-4,"Bakı şəhəri, Yasamal rayonu. M.Müşfiq küçəsi. Ev 1",924,07:00-23:00,40.362114,49.818459
+Araz Günəşli-5,"Suraxanı rayonu, Yeni Günəşli qəsəbəsi, AB massivi 127",055 500 97 76,07:00 - 23:00,40.383377,49.974869
+Araz Şərifzadə-6,"Bakı şəhəri, Yasamal rayonu. A.M Şərifzadə küçəsi",+994555101613,24/7,40.398590,49.801376
+Araz Azadlıq-2,"Nəsimi rayonu, Azadlıq prospekti və Vladislav Plotnikov küçəsinin kəsişməsi",055 900 08 11,24\7,40.385242,49.844257
+Araz Zığ -2,"Bakı şəhəri, Suraxanı rayonu. Zığ qəsəbəsi. P.Şirinov küç 81",+994555101611,08:00-00:00,40.386238,50.026978
+Araz 8-ci km-5,"Nizami rayonu, B.Nuriyev küçəsi",055 900 67 88,07:00 - 23:00,40.402145,49.955322
+Araz Hökməli -1,"Abşeron rayonu, Hökməli qəsəbəsi",+99455 510 02 07,24/7,40.436420,49.729332
+Araz Bilgəh,"Sabunçu rayonu, Nardaran qəsəbəsi, 9 Z saylı ərazi ",055 900 67 89,07:00 - 23:00,40.555054,50.022453
+Araz Binəqədi- 7,"Bakı şəhəri, Binəqədi rayonu, Binəqədi şosesi 5",+994557379294,08:00-00:00,40.452576,49.778957
+Araz Məhəmmədi-3,"Abşeron rayonu, Məhəmmədi kəndi",055 900 67 25,07:00 - 23:00,40.509075,49.915836
+Araz NZS-2,"Bakı şəhəri,Xətai rayonu, Rəşid Bağırov küçəsi giriş 111",+944555103137,24/7,40.386406,49.909214
+Araz Hövsan-3,"Suraxanı rayonu, Elçin Məmmədov 5k",055 900 67 23,07:00 - 23:00,40.360977,50.07782
+Müşviqabad-3,"Abşeron rayonu, Aşağı Güzdək qəsəbəsi",0992014478,24/7,40.470203,49.626259
+Araz Bakıxanov-5,"Sabunçu rayonu, Bakıxanov qəsəbəsi, Sakit Qocayev küçəsi 35",055 900 67 26,07:00 - 23:00,40.416039,49.964676
+Araz Digah-1,"Abşeron rayonu, Digah qəsəbəsi",924,24/7,40.492565,49.865360
+Araz Nərimanov-5,"Nərimanov rayonu, M.Məmmədzadə/Ə.Orucəliyev/N.Hacıyev küçələrinin kəsişməsində",055 900 67 42,24\7,40.400349,49.870441
+Araz Tarqovu-3,"Bakı şəhəri, Səbail rayonu, Xəqani küçəsi 17",0992014461,07:00-02:00,40.372978,49.842674
+Araz Sulutəpə-2,"Binəqədi rayonu, Sulutəpə qəsəbəsi, Ruslan Allahverdiyev küçəsi",055 400 85 29,07:00 - 02:00,40.433952,49.773163
+Araz Dəliməmmədli-1,"Goranboy rayonu, Muzdurlar kəndi",+944555101413,24/7,40.686977,46.586243
+Araz Nargilə-2,"Xətai rayonu, Zığ şossesi 8, blok 1",055 500 61 35,24\7,40.367275,49.941563
+Araz Zabrat-4,"Bakı şəh. Sabunçu ŞTQ, İlyas Aslanov 8",924,24/7,40.448311,49.935116
+Araz Sulutəpə-3,"Binəqədi rayonu, Sulutəpə qəsəbəsi, R.Allahverdiyev küçəsi, ev 25F   ",055 300 83 90,24\7,40.432625,49.771278
+Araz Xətai-8,"Bakı şəh. Xətai ray. 8 noyabr ev.15,məhəllə 1212,mərtəbə 1",99455 255 77 53,08:00-00:00,40.378403,49.874775
+Araz Badamdar-3,"Badamdar qəsəbəsi, 22-ci küçə, 3-cü massiv ",055 515 85 21,08:00 - 23:00,40.332138,49.802826
+Araz Binə Topdan,"Bakı ş., Lökbatan qəsəbəsi cənub-şərqində inşa edilən Binə Ticarət Mərkəzi",99455 515 85 73,08:00-02:00,40.302853,49.760647
+Araz Hövsan-4,"Suraxanı rayonu, Hövsan qəsəbəsi, Oqtay Şabanov küçəsi",055 515 85 58,24\7,40.358704,50.067162
+Araz Kömürçü-2,"Bakı şəhəri, Nəsimi rayonu, Malibo Residance",994552527030,24/7,40.379551,49.834023
+Araz Gəncə-3,"Gəncə şəhəri, Şəddadilər küçəsi ",055 900 08 83,24\7,40.688095,46.352371
+Araz Məhəmmədi-5,"Abşeron rayonu, Məhəmmədi kəndi",+994992014491,24/7,40.502117,49.946949
+Araz 8-ci mkr-2,"Binəqədi rayonu, Cəfər Xəndan küçəsi (Tərgül ticarət mərkəzi)",055 900 67 47,07:00 - 23:00,40.417198,49.838631
+Araz Ceyranbatan-2,"Bakı şəhəri, Abşeron rayonu, Ceyranbatan qəsəbəsi Bakı-Quba yolu 26-ci km, Ə.Paşayev küçəsi",994992014490,24/7,40.539963,49.666592
+Araz Abşeron-1,"Xırdalan şəhəri, Abşeron Gənclər şəhərciyi",055 900 28 15,08:00 - 23:00,40.470043,49.742256
+Araz Gəncə-5,"Gəncə şəhəri, Azərbaycan Əsgəri küçəsi",994992014476,24/7,40.717884,46.353844
+Araz Əhmədli-6,"Nizami rayonu, Babək prospekti 64",055 900 28 60,07:00 - 00:00,40.394524,49.950237
+Araz Əhmədli-12,"Bakı şəhəri, Xətai rayonu, Qaçaq Nəbi küçəsi, 119",994992014409,07:00-02:00,40.387096,49.958862
+Araz Ramana-1,"Sabunçu rayonu, Ramana qəsəbəsi, E.Məhərrəmli küçəsi",055 900 28 25,07:00 - 23:00,40.477703,49.987919
+Araz Qutqaşınlı-1,"Yasamal rayonu, İ.Qutqaşınlı küç 85",055 900 28 26,07:00 - 23:00,40.372177,49.820423
+Araz Mehdiabad-3,"Abşeron rayonu, Mehdiabad qəsəbəsi, 28 May küçəsi ev 1",055 900 28 65,07:00 - 02:00,40.491539,49.855244
+Araz Xirdalan-5 Supermarket,"Xırdalan şəhəri, Nizami Gəncəvi küçəsi",055 900 28 46,07:00 - 23:00,40.460838,49.741203
+Araz Nərimanov-8,"Nərimanov rayonu, Ə. Orucəliyev küçəsi 7",055 900 28 44,07:00 - 23:00,40.396263,49.875515
+Araz Şəki-1,"Şəki şəhəri, M.Ə.Rəsulzadə pr 169",055 900 28 64,07:00 - 23:00,41.200283,47.177299
+Araz Nərimanov-6,"Nərimanov rayonu, Çaykovski küçəsi 10",055 900 28 93,08:00 - 00:00,40.394402,49.875912
+Araz Sumqayıt-7,"Sumqayıt şəhəri, Koroğlu küçəsi 395, 10-cu mkr",055 900 28 90,08:00 - 00:00,40.561623,49.694092
+Araz Qobustan,"Qobustan qəsəbəsi, Bakı - Ələt yolunun 58-ci km-liyi",055 900 36 05,08:00 - 23:00,40.071949,49.41185
+Araz Sumqayıt-8,"Sumqayıt şəhəri, 11-ci mikrorayon, Bədəlbəyli küçəsi 34A",055 900 36 04,08:00-23:00,40.569878,49.675194
+Araz Yevlax,"Yevlax şəhəri, Məhəmməd Füzuli küçəsi",055 900 36 40,08:00 - 23:00,40.60788,47.149147
+Araz Hövsan 2 Minimarket,"Suraxanı rayonu, Hövsan qəsəbəsi, Elman Qasımov küçəsi 227 A",055 515 85 64,07:30 - 23:00,40.364113,50.073154
+Araz Şuşa şəhəri-1,"Şuşa şəhəri, 20 Yanvar küçəsi",055 900 36 06,08:00 - 20:00,39.762844,46.748207
+Araz Masazır-5,"Abşeron rayonu, Masazır qəsəbəsi, Əliağa Vahid küçəsi",055 900 96 44,08:00 - 23:00,40.484329,49.756336
+Araz Bakıxanov-6,Muxtar Fətəliyev küçəsi 151 A,055 900 36 13,08:00 - 23:00,40.416225,49.968266
+Araz Nargilə-3,"Xətai rayonu, Zığ yolu 31A, blok 3.",055 204 96 47,08:00 - 23:00,40.360359,49.946903
+Araz Yeni Yasamal-2,"Yasamal rayonu, Əsəd Əhmədov küçəsi 9, döngə 5",055 900 28 20,08:00 - 23:00,40.387386,49.787609
+Araz Əhmədli-7,"Xətai rayonu, Əhmədli qəsəbəsi, M.Hadi küçəsi, 2341-2343-cü məhəllə, ev 2 ",055 900 83 09,08:00 - 23:00,40.394569,49.952446
+Araz Masazır-4,"Masazır qəsəbəsi, Yeni Bakı yaşayış kompleksi, ev 6",055 900 36 44,08:00 - 23:00,40.491493,49.746567
+Araz Tusi-2,"Xətai rayonu, Nəsrəddin Tusi 45",055 900 83 29,08:00 - 23:00,40.369431,49.962055
+Araz Həzi Aslanov-2,"Xətai rayonu, M.Hadi küçəsi, 2942 A məhəllə        ",055 900 36 89,08:00 - 23:00,40.366039,49.955395
+Araz Biləcəri-3," Binəqədi rayonu, Biləcəri qəsəbəsi, Yahya Hüseynov küçəsi 33 c",055 900 83 99,08:00 - 23:00,40.432434,49.804684
+Araz Binə-4,"Xəzər rayonu, Binə qəsəbəsi, Vaqif küçəsi",055 900 36 34,08:00 - 23:00,40.417709,50.107887
+Araz Şüvəlan-2,"Şüvəlan qəsəbəsi, Lev Starçuk küçəsi",055 900 36 93,08:00 - 23:00,40.496326,50.198189
+Araz Atatürk-2,"Nərimanov rayonu, İ.Dadaşov küçəsi 57 X     ",055 900 83 25,08:00 - 23:00,40.410492,49.843937
+Araz Minəçevir-2,"Mingəçevir şəhəri, Naxçıvan küçəsi ev 42 B",055 204 96 05,08:00 - 23:00,40.769966,46.998623
+Araz M.Əcəmi-2,"Bakı şəhəri , Nəsimi rayonu 3-cü mkr , Cavadxan küçəsi",055 200 83 29,08:00 - 23:00,40.412827,49.813202
+Araz Sumqayıt-9,"Sumqayıt şəhəri, 12-ci mkr, Çerkassi küçəsi",055 900 36 90,08:00 - 23:00,40.562477,49.684307
+Araz Xırdalan-6,"Xırdalan şəhəri, Heydər Əliyev prospekti 11",924,08:00 - 23:00,40.446938,49.751148
+Araz Zabrat-2,"Sabunçu rayonu, Zabrat qəsəbəsi, R. Axundov küçəsi",055-333-37-81,08:00 - 23:00,40.472870,49.944332
+Araz 8-ci mkr-3,"Binəqədi rayonu, 8-ci mikrorayon, Nizami Nərimanov küçəsi, 3078-ci məhəllə",055 333 43 18,08:00 - 23:00,40.420235,49.839996
+Araz Mehdiabad-4,"Abşeron rayonu, Mehdiabad qəsəbəsi, Cəfər Cabbarlı küçəsi",055 333 47 25,08:00 - 23:00,40.497898,49.85133
+Araz Biləcəri-5,"Binəqədi rayonu, Biləcəri qəsəbəsi, 3-cü yeni Y/M, Xudayat Məlikaslanov küçəsi 36",055 333 43 80,08:00 - 00:00,40.44479,49.809513
+Araz Bayıl-2,"Bakı şəh. Səbail rayonu , Bayıl qəsəbəsi Xanlar küçəsi 119",055 333 47 31,08:00 - 23:00,40.343227,49.83839
+Araz Xırdalan-7,Xırdalan şəhəri Heydər Əliyev Prospekti 95,055-333-46-22,08:00 - 23:00,40.441151,49.76358
+Araz Şərifzadə-2,"Yasamal rayonu, Abbas Mirzə Şərifzadə küçəsi",055 333 57 28,08:00 - 23:00,40.39151,49.802345
+Araz Neapol-2,"Xətai rayonu, Əhmədli qəsəbəsi, General Əliağa Şıxlinski küç. 03",055 333 42 45,08:00 - 23:00,40.379681,49.965164
+Araz Nərimanov-9,"Nərimanov rayonu, İsmayıl Hidayətzadə küçəsi",055 333 58 43,08:00 - 23:00,40.391178,49.878223
+Araz Əhmədli-9,"Xətai rayonu, Əhmədli qəsəbəsi, Q.Nəbi küçəsi 9C",055 333 58 83,24\7,40.389366,49.957867
+Araz Möhsün Sənani-3,"Nərimanov rayonu, Möhsün Sənani küç. 17,19  ",055 253 33 92,08:00 - 23:00,40.398098,49.834629
+Araz Bakıxanov-8,"Sabunçu rayonu, Bakıxanov qəsəbəsi, Nizami İsmayılov küçəsi",055 253 28 48,08:00 - 23:00,40.42289,49.969036
+Araz Siyəzən-1,"Siyəzən şəhəri, Heydər Əliyev prospekti",055 253 28 98,08:00 - 23:00,41.086773,49.102249
+Araz Şərifzadə-4,"Yasamal rayonu, İsfəndiyar Zülalov küç.ev 19",055 201 24 38,08:00 - 23:00,40.374306,49.806599
+Araz Biləcəri-6,"Binəqədi rayonu, Biləcəri qəsəbəsi, Asəf Zeynalov küçəsi",055 202 67 59,24\7,40.437325,49.808765
+Araz Sumqayıt-10,"Sumqayıt şəhəri, H.Əliyev pr 49. 34-cü məhəllə",055 204 24 83,08:00 - 23:00,40.587845,49.669605
+Araz Nargilə-4,"Xətai rayonu, Zığ yolu, 1723-cü keçid, 2950-51-ci məhəllə",055 201 24 76,08:00 - 23:00,40.366177,49.944363
+Araz Şərifzadə-3,"Yasamal rayonu , A.M.Şərifzadə küç-44",055 251 54 02,08:00 - 23:00,40.375618,49.805183
+Araz Neftçilər-3,"Nizami rayonu, M.Abbasov küç. 2538 məh",055 252 26 51,08:00 - 23:00,40.41050062,49.938490034356
+Araz Xırdalan-8,"Xırdalan şəhəri, Quşçuluq y/m, 20-ci küçə, ev 25 ",055 253 24 13,08:00 - 23:00,40.464706,49.723244
+Araz Biləcəri-7,"Binəqədi rayonu , Biləcəri qəsəbəsi,  A.Zeynallı küçəsi, Döngə 2 ev 2",055 202 67 59,08:00 - 23:00,40.43766,49.802391
+Araz Qutqaşınlı-2,"Yasamal rayonu, İsmayıl bəy Qutqaşınlı küçəsi  ",055 900 28 78,08:00 - 23:00,40.370319,49.820541
+Araz Xətai-3,"Bakı şəhəri , Xətai r-nu, Xocalı pr-ti 29              ",055 900 08 37,08:00 - 23:00,40.696861,46.34552
+Araz Biləcəri-8,"Bakı ş., Binəqədi r-nu,Biləcəri qəs., Sumqayıt şos-si., R.İsmayılov küç. 11G ",055 900 08 49,08:00 - 23:00,40.422089,49.798489
+Araz Nargile-5,"Bakı ş., Xətai r-nu, Cavanşir küç. 36         ",055 900 28 72,07:00 - 00:00,40.362286,49.950413
+Araz Cavanşir-1,"Bakı ş., Xətai r-nu, Cavanşir küç. 30B",055 333 47 36,08:00 - 23:00,40.365307,49.94865
+Araz Günəşli-6,"Bakı ş., Suraxanı r-nu, Y/Günəşli qəs., D massivi, Shams (Şəms) Residence ",055 333 43 52,08:00 - 23:00,40.375351,49.97797
+Araz Nərimanov-10,"Bakı ş., Nərimanov r-nu, Təbriz və Həsənoğlu küç. kəsişməsi    Whitestone deyilən",055 333 43 72,7\24,40.401333,49.863884
+Araz 9 mkr-3,"Bakı ş., Binəqədi r-nu, 9 mkr., A.Məmmədov küç. ev 11, mən. 4 ",055 900 08 64,08:00 - 23:00,40.419537,49.80835
+Bakıxanov-6 Superstore,"Bakı şəhəri, Sabunçu rayonu, Muxtar Fətəliyev",055 900 36 13,08:00 - 23:00,40.416649,49.968479
+Araz Ceyhun Hacıbəyli-2,"Bakı ş., Nəsimi r-nu, C.Hacıbəyli küç. 39A ",055 900 36 29,08:00 - 23:00,40.390259,49.846466
+Araz Azadlıq-4,"Bakı ş., Nəsimi r-nu, S.Rüstəm küç. 141 Qarant deyilən",055 900 36 65,08:00 - 23:00,40.389385,49.841244
+Araz Ramana-2,"Bakı ş., Sabunçu r-nu, Ramana qəs., Şuşa küç-Ramana Pətək",055 900 36 54,08:00 - 23:00,40.469681,50.01754
+Araz Pirşaği-1,"Bakı ş., Sabunçu(Pirşağı) Həsən Əliyev küç,",055 204 96 88,08:00 - 23:00,40.52998,49.87273
+Araz Qaraçuxur-3,"Suraxanı rayonu, Qaraçuxur qəsəbəsi, Z. Şərifov küçəsi 22.",012924,08:00 - 23:00,40.40168,49.979866
+Araz Binəqədi-4,"Bakı şəhəri, Binəqədi rayonu, Binəqədi ştq mərkəzi ev.-m. Binəqədi qəsəbəsi ərazisi.",012924,08:00 - 23:00,40.456184,49.783878
+Araz Həzi Aslanov-4,"Bakı şəhəri, Xətai rayonu, 4-cü dairəvi küçəsi 27.",012924,08:00 - 23:00,40.359634,49.958267
+Araz Neftçilər-4,"Nizami rayonu, Nəsimi küçəsi 112a.",012924,08:00 - 23:00,40.413063,49.945919
+Araz Ağcəbədi-1,Ağcəbədi rayonu Tofiq Qasımov küçəsi,055 204 96 88,08:00 - 23:00,40.030533,47.441227
+Araz Buzovna-5,"Bakı şəh. Xəzər r-nu., Buzovna qəs.,E.Bünyadov küç. Ev 26",055 204 96 20,07:00 - 00:00,40.519386,50.097073
+Araz Ucar-1,Ucar r-nu Qarabörk ev.-m,924,08:00 - 23:00,40.495377,47.659508
+Araz Laçın-1,Laçın şəhəri,924,08:00-23:00,39.636955,46.546642
+Araz Mərdəkan-2,"Bakı ş., Xəzər r., Mərdəkan ŞTQ Sergey Yesenin (Mərdəkan Qəs.) ev.8H və 8km",924,24/7,40.485481,50.129425
+Araz Xətai-5,Bakı ş.Xətai r-nu 8 noyabr ev.23 m. 1,924,08:00-23:00,40.378971,49.877777
+Araz Zabrat-3,"Sabunçu rayonu, Zabrat qəsəbəsi, Nəsibə Zeynalova 552",924,08:00-23:00,40.479282,49.954559
+Araz Zirə-2,Baki şəhəri Xəzər rayonu Zirə qəsəbəsi 57ci Zirə küç. 19\t,924,08:00-23:00,40.375427,50.285774
+Araz Sumqayıt-11,"Sumqayıt şəh., Sumqayıt Dəmir yolu yaşayış sahəsi ev.-m Azərbaycan dəmir yolu yük heyəti massivi",924,08:00-23:00,40.565685,49.627323
+Araz Pirallahı-2,"Pirallahı rayonu, Səməd Vurğun küçəsi 3.",924,08:00-23:00,40.469322,50.325222
+Araz Pirallahı-1,Pirallahı rayonu K.Rzayev küçəsi,924,08:00-23:00,40.449791,50.338169
+Araz Xəzər-4,Bakı şəh. Xətai ray. Gəncə pr 2930-cu məhəllə,924,08:00-23:00,40.356186,49.961277
+Araz Yeni Yasamal-3,Bakı şəh. Yasamal ray. Ümud Əkbərov küç. 81,924,08:00-23:00,40.375252,49.799496
+Araz Binəqədi-5,Bakı şəh. Binəqədi ray. Binəqədi qəs. Gülməmməd Ramazanov küç. 41,924,08:00-23:00,40.47028,49.826164
+Araz 7-ci mkr-5,Bakı şəh. Binəqədi ray. 7-ci mkr A.Kunanbayev küç 3121ci məhəllə 78P saylı sahə,924,08:00-23:00,40.433174,49.860336
+Araz Yeni Yasamal-4,"Yasamal rayonu, Müstəqillik küçəsi, ev 25. ",924,08:00-23:00,40.374168,49.796047
+Araz Ə. Əliəşrəf-1,Bakı şəh. Nərimanov ray. Ələşrəf Əlizadə küç,924,08:00-23:00,40.393963,49.861263
+Araz Şabran-1,Şabran şəh. M.Ə. Rəsulzadə küç 57a,924,08:00-23:00,41.201622,48.981747
+Araz 6-cı mkr-3,"Binəqədi rayonu, Azadlıq prospekti 187, korpus A.",924,08:00-23:00,40.423359,49.837227
+Araz Sumqayıt-12,"Sumqayıt şəhəri, 6-cı mkr., ev 33E.",924,08:00-23:00,40.579151,49.691528
+Araz Qaradağ-1,"Qaradağ rayonu, Salyan şosesi, 23-cü km. ",924,24/7,40.276527,49.679501
+Araz Məmmədli-4,"Abşeron rayonu, Məmmədli qəsəbəsi",924,08:00-23:00,40.507343,49.911816
+Araz Nərimanov-11,"Nərimanov rayonu, Faiq Yusifov küçəsi, ev 40.",924,08:00-23:00,40.408817,49.870377
+Araz Qala-2,"Xəzər rayonu, Qala ŞTQ, Mərdəkan şosesi, ev 467 m.",924,08:00-23:00,40.465858,50.137878
+Araz Bayıl-3,"Səbail rayonu, Qurban Abbasov küçəsi, ev 14.",924,08:00-23:00,40.350552,49.834431
+Araz İnqilab-5,"Bakı şəhəri, Yasamal rayonu, C. Məmmədquluzadə küçəsi, ev 118.",924,08:00-23:00,40.396885,49.827744
+Araz Yeni Yasamal-5,"Bakı şəhəri, Yasamal rayonu, Dadaş Bünyadzadə küçəsi, ev 3.",924,08:00-23:00,40.389683,49.792908
+Araz Albalılıq-1,"Xəzər rayonu, Buzovna qəsəbəsi, Məhəmməd Namazov küçəsi, ev 169",924,24/7,40.526749,50.069347
+Araz Pirşağı-2,"Sabunçu rayonu, Pirşağı qəsəbəsi, Qurtuluş küçəsi 275",924,08:00-23:00,40.560268,49.889408
+Araz Masazır-7,"Abşeron rayonu, Masazır qəsəbəsi, Qurtuluş 93, bina 1C.",924,08:00-23:00,40.486233,49.767414
+Araz Lənkəran-1,"Lənkəran rayonu, Gərmətük ŞTQ.",924,09:00-23:00,38.724106,48.843887
+Araz Babək-1,"Bakı şəhəri, Xətai rayonu, Babək prospekti, 9-cu dairəvi küçə.",924,24/7,40.393185,49.927258
